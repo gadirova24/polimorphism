@@ -1,0 +1,15 @@
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/bin/Debug/net6.0/Abstract_Interface1
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/bin/Debug/net6.0/Abstract_Interface1.deps.json
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/bin/Debug/net6.0/Abstract_Interface1.runtimeconfig.json
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/bin/Debug/net6.0/Abstract_Interface1.dll
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/bin/Debug/net6.0/Abstract_Interface1.pdb
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/Abstract_Interface1.csproj.AssemblyReference.cache
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/Abstract_Interface1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/Abstract_Interface1.AssemblyInfoInputs.cache
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/Abstract_Interface1.AssemblyInfo.cs
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/Abstract_Interface1.csproj.CoreCompileInputs.cache
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/Abstract_Interface1.dll
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/refint/Abstract_Interface1.dll
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/Abstract_Interface1.pdb
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/Abstract_Interface1.genruntimeconfig.cache
+/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/obj/Debug/net6.0/ref/Abstract_Interface1.dll

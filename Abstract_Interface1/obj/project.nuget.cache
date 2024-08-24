@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1k97ZkQHkq5ryjY6i/qMZm9NF1HpmuH6uXK1w8xFl8sYQXcmIh8SjF1aHO+rlnK1QQ6UhD1aQh7FuU/JR0i6bQ==",
+  "success": true,
+  "projectFilePath": "/Users/nigar/Desktop/Abstract_Interface1/Abstract_Interface1/Abstract_Interface1.csproj",
+  "expectedPackageFiles": [
+    "/Users/nigar/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/nigar/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/nigar/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
